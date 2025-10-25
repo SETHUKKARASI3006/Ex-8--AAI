@@ -50,3 +50,4 @@ while True:
 <img width="1918" height="974" alt="image" src="https://github.com/user-attachments/assets/91bc0098-4b8f-487f-b32d-d8f78c87c3b3" />
 
 <H3> Result:</H3>
+Thus, The implementation of speech recognition is executed successfully.
